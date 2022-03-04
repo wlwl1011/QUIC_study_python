@@ -1,0 +1,1 @@
+print(input[i], '-', input[j])
