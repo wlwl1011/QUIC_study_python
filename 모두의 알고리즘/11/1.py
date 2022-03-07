@@ -8,4 +8,4 @@ def findAlpa(x):
     return True
 
 
-print(findAlpa("Hi"))
+print(findAlpa("Wow"))
