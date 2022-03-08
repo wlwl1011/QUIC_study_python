@@ -1,5 +1,5 @@
 def fact(n):
-    if n <= 1:
+    if n <= 1: #종료조건
         return 1
     return n*fact(n-1)
 

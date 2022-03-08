@@ -9,7 +9,6 @@ def max_profit1(prices):
 
     return max_profit
 
-
 def max_profit2(prices):
     n = len(prices)
     max_profit = 0

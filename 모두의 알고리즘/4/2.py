@@ -1,5 +1,5 @@
 def findMax(idx, max):
-
+    
     a = [2, 1, 4, 7, 0]
     lenth = len(a)
     if(idx <= 0):
